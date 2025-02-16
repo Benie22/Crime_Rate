@@ -1,5 +1,5 @@
 # benedicta_portfolio
-# [Crime Rate]: (https://benie22.github.io/Crime_Rate/)
+# Crime Rate: https://benie22.github.io/Crime_Rate/
 
 Observations:
 
