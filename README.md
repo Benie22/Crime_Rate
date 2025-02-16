@@ -1,12 +1,12 @@
 # Benedicta_Portfolio
-# Crime Rate: https://benie22.github.io/Crime_Rate/
+# [Crime Rate: https]:(//benie22.github.io/Crime_Rate/)
 
-Observations
+# Observations
 
 Visual observation identifies Nigeria as having the highest crime rate of the countries of interest with a very strong trend upward.
 There is a worryingly high crime rate in some of the categories for Ghana too.
 
-**Recommendations:**
+# Recommendations
 
 # Nigeria
 Police Force Strengthening:
